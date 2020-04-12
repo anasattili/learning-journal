@@ -4,6 +4,6 @@
 
 **My our three point that I always put it in my mind to keep yourself in a growth mindset.**
 
-* First one I always try to make my best and use the hard working in what ever I do.
-* second I used to put my self in a challenging environment.
-* third I always try to learn from people who had a huge science and experience and make it inspire.
+* First one I always try to make my best and use the hard working in what ever I do
+* second I used to put my self in a challenging environment
+* third I always try to learn from people who had a huge science and experience and make it inspire
