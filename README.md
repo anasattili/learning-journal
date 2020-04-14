@@ -37,18 +37,17 @@ note:to close the tag ex:<p></p>
 
 
 
-> Basic HTML Page Structure:
-> DOCTYPE html
-> html
-> head
-> title Page title title
-> /head
-> body
-> h1 This is a heading /h1
-> p This is a paragraph. p
-> footer This is a paragraph footer 
-> body
-> /html
+## Basic HTML Page Structure:
+* DOCTYPE html
+* html
+* head
+* title Page title title
+* body
+* h1 This is a heading 
+* p This is a paragraph
+* footer This is a paragraph 
+
+
 
 
 
