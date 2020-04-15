@@ -27,4 +27,4 @@ Used for check the condition if true or false and depend on it will specified th
 * } while(the condition);
 > Note : you should pay attention about the condition to not make it results in an infinite loop in the code execution.
 
-logical or (||)
+
