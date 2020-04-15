@@ -10,7 +10,6 @@ You can make evaluating about comparing the value to what you expect  by using
 * less than or equal (<=)
 * logical operators:
 * logical and (&&)
-* logical or 
 * logical not (!)
 # Loops:
 Used for check the condition if true or false and depend on it will specified the number of repeating the code 
