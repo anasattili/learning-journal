@@ -41,6 +41,9 @@ let y=x.random();
 | project 1 | name | descrintion |
 | project 2 | name | desc |
 
+italic bold steakthrough withoit any space between the * or ** or ~~
+
+my name is *anas* and i **Attili** so that ~~engineer~~ .
 
 
 
