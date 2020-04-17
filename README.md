@@ -8,6 +8,33 @@
 * second I used to put my self in a challenging environment.
 * third I always try to learn from people who had a huge science and experience and make it inspire.
 
+Exam training:
+# my name is anas
+## hello 
+i live in irbid. 
+
+and try to find a job
+* hello 
+- good for you
+  - try something else
+   1* good boy
+   2. yes
+   
+   [ This is th elink](http://google.com)
+   
+   this is the `code inline` def for code inline
+   
+   `html
+<tag>this is paragrapg</tag>
+`
+
+`javascript
+let y=x.random();
+`
+
+![this is the image](https://images.pexels.com/photos/302804/pexels-photo-302804.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+
+
 
 
 
