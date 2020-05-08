@@ -40,7 +40,9 @@ let y=x.random();
 | --- | --- | --- |
 | project 1 | name | descrintion |
 | project 2 | name | desc |
-
+| Block     | : A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).
+ex: <div> <address> <ul> <ol> <li> .
+  
 italic bold steakthrough withoit any space between the * or ** or ~~
 
 my name is *anas* and i **Attili** so that ~~engineer~~ .
