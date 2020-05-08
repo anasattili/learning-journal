@@ -86,12 +86,12 @@ Comments on HTML:
 add a comment to your code it’s a good idea to you when you return back to fix some problems make it easy or for if someone else needs to look at the code.
 
 Id Attribute: The HTML id attribute is used to specify a unique id for an HTML element (the value must be unique within the HTML document).
-ex: <h1 id="myHeader">My Header</h1>.
+ex: `<h1 id="myHeader">My Header</h1>.`
 
 Class Attribute: The HTML class attribute is used to define equal styles for elements with the same class name.
 ex: 
-  <h2 class="cities">London</h2>
-  <h2 class="cities">Paris</h2>`
+  `<h2 class="cities">London</h2>`
+  `<h2 class="cities">Paris</h2>`
 
  Element  |  Function
 -----------|-----------
