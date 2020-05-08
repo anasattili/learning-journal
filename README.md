@@ -56,6 +56,7 @@ my name is *anas* and i **Attili** so that ~~engineer~~ .
 * web servers: a special computer respond to the request of the users.
 * devices: the end users’ devices like laptop tablets mobiles.
 * screen reader: a software which read the content of the computer screen.
+
 **The basic web pages created by using HTML and CSS.**
 
 ## How the web works:
