@@ -6,6 +6,8 @@ Element   |  Function
 `<meta>`    |>:is a data (information) about data. And its invisible element. meta tags always go inside the head element, and they provide metadata about the HTML document. meta tags are typically used to specify character set, page description, keywords, author of the document, and viewport settings.
 
 `<div>`    | allows you to group a set of elements together in one block-level box.
+`<figure>and<figcaption>` | represents self-contained content, potentially with an optional caption, which is specified using the `(<figcaption>)` element. The figure, its caption, and its contents are referenced as a single unit.
+
 
 
 
