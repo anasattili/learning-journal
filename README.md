@@ -1,3 +1,19 @@
+Element   |  Function
+-----------|-----------
+`<div>`    | allows you to group a set of elements together in one block-level box.
+`<span>`   |to contain a text or a number of inline element and the most use of it to control the appearance of the content of these elements using CSS.
+`<iframe>` | allows you to group a set of elements together in one block-level box.
+`<meta>`    | >:is a data (information) about data. And its invisible element.
+`<meta> tags always go inside the <head>` element, and they provide metadata about the HTML document.
+`<meta>` tags are typically used to specify character set, page description, keywords, author of the document, and viewport settings.
+
+`<div>`    | allows you to group a set of elements together in one block-level box.
+
+
+
+
+
+
 # My name is Anas Kamal Attili I am 28 years old I have a bachelor degree in Electrical Engineering and I live in Irbid.
 
 > About “growth mindset” in my opinion this method talk about how you can change your principles and opnions and how you change in in an effectevnise way to stop thinking about what you can not do due to your situation or the challengies you faced it.
