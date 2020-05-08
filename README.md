@@ -49,3 +49,59 @@ my name is *anas* and i **Attili** so that ~~engineer~~ .
 
 
 
+# Read: 01 - Introductory HTML and JavaScript
+
+## How People Access the Web:
+* Browsers: it’s a software called web browsers to view the web pages.
+* web servers: a special computer respond to the request of the users.
+* devices: the end users’ devices like laptop tablets mobiles.
+* screen reader: a software which read the content of the computer screen.
+**The basic web pages created by using HTML and CSS.**
+
+## How the web works:
+> connect to the internet by (ISP) by write the name of the web page on browser
+DNS server convert the name to the unique IP address to contact you with the web server
+the web server sends the page you request to your web browser.
+
+## HTML: is a hypertext markup language, used to build the structure of the web pages.
+### the structure of the web pages using html:
+`the structure of the web pages using html
+<!DOCTYPE>.........declaration the html.
+<html>......contain the html element.
+<head> <title>.......to add a title for the web page tab.
+<body>............contain all the visible element of the web pages.
+//body can contain: header, paragraph, main, section, article, footer......//
+open tag like<html> to indicate the tag's purpose.
+close tag like</html> to indicate the end of the tag action.
+Attributes: using in the open tag to provide additional information
+about the contents of an element. ex:<p lang="en-us">Paragraph in English</p>.
+
+versions of HTML.
+HTML4-XHTML 1.0-HTML5
+TO use each of them depending on the first tag of the declaration. ex:<!doctype html> for html5.
+
+Comments on HTML:
+<!-- comment goes here -->
+add a comment to your code it’s a good idea to you when you return back to fix some problems make it easy or for if someone else needs to look at the code.
+
+Id Attribute: The HTML id attribute is used to specify a unique id for an HTML element (the value must be unique within the HTML document).
+ex: <h1 id="myHeader">My Header</h1>.
+
+Class Attribute: The HTML class attribute is used to define equal styles for elements with the same class name.
+ex: 
+  <h2 class="cities">London</h2>
+  <h2 class="cities">Paris</h2>`
+
+ Element  |  Function
+-----------|-----------
+Block      | : A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).
+
+
+
+
+
+
+
+
+
+
