@@ -82,7 +82,7 @@ HTML4-XHTML 1.0-HTML5
 TO use each of them depending on the first tag of the declaration. ex:<!doctype html> for html5.
 
 Comments on HTML:
-<!-- comment goes here -->
+`<!-- comment goes here -->`
 add a comment to your code it’s a good idea to you when you return back to fix some problems make it easy or for if someone else needs to look at the code.
 
 Id Attribute: The HTML id attribute is used to specify a unique id for an HTML element (the value must be unique within the HTML document).
