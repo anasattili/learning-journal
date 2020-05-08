@@ -3,9 +3,7 @@ Element   |  Function
 `<div>`    | allows you to group a set of elements together in one block-level box.
 `<span>`   |to contain a text or a number of inline element and the most use of it to control the appearance of the content of these elements using CSS.
 `<iframe>` | allows you to group a set of elements together in one block-level box.
-`<meta>`    | >:is a data (information) about data. And its invisible element.
-meta tags always go inside the head element, and they provide metadata about the HTML document.
-meta tags are typically used to specify character set, page description, keywords, author of the document, and viewport settings.
+`<meta>`    |>:is a data (information) about data. And its invisible element. meta tags always go inside the head element, and they provide metadata about the HTML document. meta tags are typically used to specify character set, page description, keywords, author of the document, and viewport settings.
 
 `<div>`    | allows you to group a set of elements together in one block-level box.
 
